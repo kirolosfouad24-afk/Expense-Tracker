@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cs50-iti/cs50-iti.vcxproj" Id="668e843e-dfcf-4195-ae50-b9a4f928bfbc" />
+</Solution>
